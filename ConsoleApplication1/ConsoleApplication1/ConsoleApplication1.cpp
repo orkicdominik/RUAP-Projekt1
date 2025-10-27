@@ -5,7 +5,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Pozdrav iz aplikacije od Dominika Orkica! - 123456789\n";
+=======
+    std::cout << "Pozdrav iz aplikacije od Dominika Orkica!\n";
+>>>>>>> 96318f5 (Dodana konzolna aplikacija s porukom 'Pozdrav iz aplikacije od Dominika Orkica')
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
